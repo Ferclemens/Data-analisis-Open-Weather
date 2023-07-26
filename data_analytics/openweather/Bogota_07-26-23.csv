@@ -1,0 +1,2 @@
+weather,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,wind.speed,wind.deg,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",stations,10000,1690407847,-18000,3688689,Bogota,200,-74.0817,4.6097,291.88,291.69,291.88,291.88,1024,72,3.09,220,40,1,8582,CO,1690368758,1690413166

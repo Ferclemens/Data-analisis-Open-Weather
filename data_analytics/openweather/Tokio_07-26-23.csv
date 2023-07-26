@@ -1,0 +1,2 @@
+weather,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,wind.speed,wind.deg,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset
+"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",stations,10000,1690407900,32400,1850147,Tokyo,200,139.6917,35.6895,302.02,306.14,299.63,303.48,1013,73,3.6,190,40,2,2001249,JP,1690400677,1690451436

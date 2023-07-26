@@ -1,0 +1,2 @@
+weather,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,wind.speed,wind.deg,rain.1h,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset
+"[{'id': 501, 'main': 'Rain', 'description': 'moderate rain', 'icon': '10n'}]",stations,6000,1690407816,3600,2643743,London,200,-0.1257,51.5085,288.63,288.69,287.51,289.7,1006,94,3.6,180,1.83,75,2,2075535,GB,1690344883,1690401542

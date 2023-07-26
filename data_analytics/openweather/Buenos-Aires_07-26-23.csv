@@ -1,0 +1,2 @@
+weather,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,wind.speed,wind.deg,wind.gust,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset
+"[{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]",stations,10000,1690407985,-10800,3435910,Buenos Aires,200,-58.3772,-34.6132,286.57,285.59,285.9,287.09,1017,62,9.39,100,0,3,2,2084309,AR,1690368718,1690405668
